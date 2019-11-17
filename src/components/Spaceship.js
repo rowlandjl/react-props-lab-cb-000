@@ -10,6 +10,7 @@ Spaceship.defaultProps = {
       <div>
         <h1>Name: {this.props.name}</h1>
         <p>Speed: {this.props.speed}</p>
+        <p>Has Rockets? {this.props.hasRockets}</p>
       </div>
       )
   }
