@@ -11,6 +11,7 @@ Spaceship.defaultProps = {
         <h1>Name: {this.props.name}</h1>
         <p>Speed: {this.props.speed}</p>
         <p>Has Rockets? {this.props.hasRockets}</p>
+        <p>Colors: {this.props.join(', ')}</p>
       </div>
       )
   }
