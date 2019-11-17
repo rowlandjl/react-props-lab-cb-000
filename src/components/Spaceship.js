@@ -8,7 +8,7 @@ Spaceship.defaultProps = {
   render() {
     return (
       <div>
-      
+        
       </div>
       )
   }
